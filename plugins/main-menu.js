@@ -693,7 +693,7 @@ let handler = async (m, { conn, args }) => {
             isForwarded: true,
             forwardingScore: 999,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363335626706839@newsletter',
+                newsletterJid: '120363401360971612@newsletter',
                 newsletterName: 'Aneka Bot Glow',
                 serverMessageId: -1,
             },
@@ -724,4 +724,5 @@ function clockString(ms) {
     return `${hours}h ${minutes}m ${seconds}s`;
 
 }
+
 
