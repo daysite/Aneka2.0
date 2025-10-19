@@ -83,7 +83,7 @@ console.log(chalk.red(`
 ⢰⠇⠀⠀⠀⠀⠀⠀⠀⢸⠀⡏⣿⠀⠀⠀⠀⢣⢇⠀⠑⣄⠀⠀⠸⡄⠀⠀⠘⡄⠀⠀⠸⡀⢸⠁⠀⡾⢰⡏⢳⡀
 `))
 
-cfonts.say('Ruby Hoshino Bot', {
+cfonts.say('Aneka Bot Glow', {
   font: 'chrome',
   align: 'center',
   gradient: ['#ff4fcb', '#ff77ff'],
@@ -92,15 +92,15 @@ cfonts.say('Ruby Hoshino Bot', {
 })
 
 // Créditos
-cfonts.say('Developed By: Dioneibi-rip', {
+cfonts.say('Developed By: Daniel', {
   font: 'console',
   align: 'center',
   colors: ['blueBright']
 })
 
 console.log(chalk.magentaBright('═════════════════════════════════════════════════════════════════════'))
-console.log(chalk.whiteBright('            🚀 Bienvenido al núcleo de la Bot Ruby Hoshino 🚀'))
-console.log(chalk.whiteBright('     Prepara tu sesión... Ruby no puede esperar para servirte querido usuario ✨'))
+console.log(chalk.whiteBright('            🚀 Bienvenido al núcleo de la Bot Aneka'))
+console.log(chalk.whiteBright('     Prepara tu sesión... Aneka no puede esperar para servirte querido usuario ✨'))
 console.log(chalk.magentaBright('═════════════════════════════════════════════════════════════════════\n'))
 
 protoType()
