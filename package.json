@@ -1,5 +1,5 @@
 {
-"name": "ruby-hoshino-md",
+"name": "Aneka Bot Glow",
 "version": "2.2.0",
 "description": "WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot",
+"homepage": "https://github.com/Daysite/Ruby-Hoshino-Bot",
 "author": {
-"name": "Dioneibi-rip"
+"name": "Daniel"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot.git"
+"url": "git+https://github.com/Daysite/Ruby-Hoshino-Bot.git"
 },
 "bugs": {
-"url": "https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot/issues"
+"url": "https://github.com/Daysite/Ruby-Hoshino-Bot/issues"
 },
 "license": "MIT-License",
 "dependencies": {
