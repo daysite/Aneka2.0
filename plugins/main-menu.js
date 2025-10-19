@@ -694,11 +694,11 @@ let handler = async (m, { conn, args }) => {
             forwardingScore: 999,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363335626706839@newsletter',
-                newsletterName: '⏤͟͞ू⃪፝͜⁞⟡『 𝐓͢ᴇ𝙖፝ᴍ⃨ 𝘾𝒉꯭𝐚𝑛𝑛𝒆𝑙: 𝑹ᴜ⃜ɓ𝑦-𝑯ᴏ𝒔𝑯𝙞꯭𝑛𝒐 』࿐⟡',
+                newsletterName: 'Aneka Bot Glow',
                 serverMessageId: -1,
             },
             externalAdReply: {
-                title: 'ׄ❀ׅᮢ໋۬۟   ׁ ᮫᩠𝗥ᥙ᜔᪲𝖻ֹ𝘺 𝐇֢ᩚᨵ̷̸ׁׅׅ𝗌𝗁𝗂ᮬ𝗇֟፝͡𝗈̷̸  ꫶֡ᰵ࡙🌸̵໋ׄᮬ͜✿֪',
+                title: 'ׄAneka Bot Glow',
                 body: dev,
                 thumbnail: icons,
                 sourceUrl: redes,
@@ -724,3 +724,4 @@ function clockString(ms) {
     return `${hours}h ${minutes}m ${seconds}s`;
 
 }
+
