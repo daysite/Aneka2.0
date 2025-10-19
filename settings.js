@@ -70,10 +70,10 @@ global.avatar = 'https://qu.ax/RYjEw.jpeg'
 global.gp1 = 'https://whatsapp.com/channel/0029VbBUF7aGzzKZMjHgtZ1z'
 global.comunidad1 = 'https://whatsapp.com/channel/0029VbBUF7aGzzKZMjHgtZ1z'
 global.channel = 'https://whatsapp.com/channel/0029VbBUF7aGzzKZMjHgtZ1z'
-global.channel2 = 'https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P'
-global.md = 'https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot'
-global.correo = 'dioneibipaselomendes@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P';
+global.channel2 = 'https://whatsapp.com/channel/0029VbBUF7aGzzKZMjHgtZ1z'
+global.md = 'https://chat.whatsapp.com/JydqOKu1AA399bMJOluzY2?mode=wwc'
+global.correo = 'https://chat.whatsapp.com/JydqOKu1AA399bMJOluzY2?mode=wwc'
+global.cn ='https://chat.whatsapp.com/JydqOKu1AA399bMJOluzY2?mode=wwc';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
