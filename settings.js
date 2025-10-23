@@ -24,7 +24,7 @@ global.owner = [
   ['18294922391', 'Arlette 🎀', true],
 
 // <-- Número @lid -->
-  ['207280104542450', 'Dionei', true],
+  ['217789839224855', 'Dionei', true],
   ['64304955007210', 'NEOTOKIO', true],
   ['64304955007210', 'nevi', true],
   ['207280104542450', 'legna', true],
